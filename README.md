@@ -7,4 +7,4 @@
 - ⚡ Experienced in **Robotics, IoT, Embedded Systems, Solar PV, Energy Storage Systems, and Renewable Energy Solutions**.
 - 💻 Building projects using **ESP32, Arduino, Python, MQTT, Firebase**, and sensor technologies.
 - 🔬 Interested in research opportunities in **Robotics, Biomedical Engineering, and Wearable Technologies**.
-- 🌐 Portfolio: [Explore my projects](https://musa-ahammed.github.io/mahin/)
+- 🌐 Portfolio: [musa-ahammed.github.io/mahin/](https://musa-ahammed.github.io/mahin/)
